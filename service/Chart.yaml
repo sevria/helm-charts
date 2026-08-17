@@ -1,3 +1,5 @@
 apiVersion: v2
 name: service
 version: 0.1.0
+annotations:
+  org.opencontainers.image.source: "https://github.com/sevria/helm-charts"
